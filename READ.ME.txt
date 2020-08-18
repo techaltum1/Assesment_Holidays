@@ -1,0 +1,18 @@
+# Code Assesment
+
+This Project is regarding to complete the assessment Which covers Cucumber Automation and API automation.
+
+## Language 
+Java as the coding language. 
+
+## library 
+Selenium for web automation 
+
+## Tools
+1) Git Hub as a central code repository 
+2) Maven as a build tool
+
+##IMportant
+Change the path of excel file 
+XLSX
+CSV
